@@ -1,0 +1,31 @@
+qk1.0_rob0 step=1 loss=0.6653 auc=0.456 pstd=6.35e-03
+qk1.0_rob0 step=100 loss=0.6419 auc=0.585 pstd=1.72e-05
+qk1.0_rob0 step=200 loss=0.6410 auc=0.583 pstd=2.01e-04
+qk1.0_rob0 step=300 loss=0.6411 auc=0.35 pstd=2.12e-07
+qk1.0_rob0 DONE
+qk2.0_rob0 step=1 loss=0.6734 auc=0.497 pstd=6.78e-03
+qk2.0_rob0 step=100 loss=0.6410 auc=0.635 pstd=3.11e-06
+qk2.0_rob0 step=200 loss=0.6410 auc=0.606 pstd=6.47e-06
+qk2.0_rob0 step=300 loss=0.6410 auc=0.587 pstd=1.50e-05
+qk2.0_rob0 DONE
+qk3.0_rob0 step=1 loss=0.6834 auc=0.387 pstd=9.69e-03
+qk3.0_rob0 step=100 loss=0.6410 auc=0.44 pstd=5.74e-05
+qk3.0_rob0 step=200 loss=0.6411 auc=0.602 pstd=1.61e-06
+qk3.0_rob0 step=300 loss=0.6410 auc=0.676 pstd=1.33e-06
+qk3.0_rob0 DONE
+qk5.0_rob0 step=1 loss=0.6774 auc=0.574 pstd=9.81e-03
+qk5.0_rob0 step=100 loss=0.6378 auc=0.699 pstd=5.16e-03
+qk5.0_rob0 step=200 loss=0.6410 auc=0.424 pstd=8.08e-06
+qk5.0_rob0 step=300 loss=0.6410 auc=0.463 pstd=5.47e-06
+qk5.0_rob0 DONE
+qk3.0_rob1 step=1 loss=0.6726 auc=0.396 pstd=1.92e-03
+qk3.0_rob1 step=100 loss=0.6410 auc=0.52 pstd=3.83e-06
+qk3.0_rob1 step=200 loss=0.6410 auc=0.57 pstd=3.99e-06
+qk3.0_rob1 step=300 loss=0.6410 auc=0.635 pstd=5.90e-06
+qk3.0_rob1 DONE
+qk5.0_rob1 step=1 loss=0.6782 auc=0.422 pstd=2.33e-03
+qk5.0_rob1 step=100 loss=0.6403 auc=0.692 pstd=4.31e-03
+qk5.0_rob1 step=200 loss=0.6413 auc=0.525 pstd=1.43e-07
+qk5.0_rob1 step=300 loss=0.6410 auc=0.491 pstd=1.25e-07
+qk5.0_rob1 DONE
+PHASE7 DONE

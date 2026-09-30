@@ -1,0 +1,23 @@
+{
+ "job_id": "woe_logreg__german_credit__n256__r0_d463a16a9e",
+ "model": "woe_logreg",
+ "dataset": "german_credit",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.11,
+ "metrics": {
+  "log_loss": 0.48669643515321837,
+  "roc_auc": 0.7993121693121693,
+  "pr_auc": 0.9033186338157119,
+  "brier": 0.16099561262975168,
+  "ece": 0.06035188149660825,
+  "ks": 0.4857142857142857,
+  "gini": 0.5986243386243386
+ },
+ "n_train": 256,
+ "n_test": 300,
+ "base_rate": 0.7,
+ "wall_s": 0.16
+}

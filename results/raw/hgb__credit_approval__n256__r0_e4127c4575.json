@@ -1,0 +1,23 @@
+{
+ "job_id": "hgb__credit_approval__n256__r0_e4127c4575",
+ "model": "hgb",
+ "dataset": "credit_approval",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.21,
+ "metrics": {
+  "log_loss": 0.3785055171763312,
+  "roc_auc": 0.8961672473867596,
+  "pr_auc": 0.91610107995789,
+  "brier": 0.11075112212643114,
+  "ece": 0.09095001472170033,
+  "ks": 0.7233449477351916,
+  "gini": 0.7923344947735191
+ },
+ "n_train": 256,
+ "n_test": 111,
+ "base_rate": 0.6306306306306306,
+ "wall_s": 0.23
+}

@@ -1,0 +1,23 @@
+{
+ "job_id": "woe_logreg__credit_approval__n256__r0_febb8f3fb2",
+ "model": "woe_logreg",
+ "dataset": "credit_approval",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.42,
+ "metrics": {
+  "log_loss": 0.4290975691826661,
+  "roc_auc": 0.8724738675958189,
+  "pr_auc": 0.9062855975274455,
+  "brier": 0.13131152224498222,
+  "ece": 0.1337371422733004,
+  "ks": 0.6804878048780488,
+  "gini": 0.7449477351916378
+ },
+ "n_train": 256,
+ "n_test": 111,
+ "base_rate": 0.6306306306306306,
+ "wall_s": 6.24
+}

@@ -1,0 +1,63 @@
+{
+ "config": {
+  "n_tasks": 20000,
+  "tasks_per_shard": 2000,
+  "alpha": 0.5,
+  "seed": 0,
+  "generator": "credit-v1"
+ },
+ "hash": "3f1c3aba8d15",
+ "shards": [
+  {
+   "shard": 0,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0000.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 1,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0001.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 2,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0002.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 3,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0003.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 4,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0004.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 5,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0005.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 6,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0006.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 7,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0007.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 8,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0008.h5",
+   "n_tasks": 2000
+  },
+  {
+   "shard": 9,
+   "path": "dumps\\a0.5_seed0_3f1c3aba8d15\\tasks_s0009.h5",
+   "n_tasks": 2000
+  }
+ ],
+ "n_tasks": 20000
+}

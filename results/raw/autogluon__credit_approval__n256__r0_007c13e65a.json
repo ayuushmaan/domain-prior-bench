@@ -1,0 +1,11 @@
+{
+ "job_id": "autogluon__credit_approval__n256__r0_007c13e65a",
+ "model": "autogluon",
+ "dataset": "credit_approval",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "skipped",
+ "reason": "missing dep: backend 'autogluon' not installed in this env",
+ "wall_s": 0.01
+}

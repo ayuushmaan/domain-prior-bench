@@ -1,0 +1,11 @@
+{
+ "job_id": "limix__german_credit__n256__r0_784671e26b",
+ "model": "limix",
+ "dataset": "german_credit",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "skipped",
+ "reason": "missing dep: backend 'limix' not installed in this env",
+ "wall_s": 0.02
+}

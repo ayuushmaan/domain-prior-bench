@@ -1,0 +1,11 @@
+{
+ "job_id": "limix__australian_credit__n256__r1_e876e8dc8b",
+ "model": "limix",
+ "dataset": "australian_credit",
+ "size": 256,
+ "repeat": 1,
+ "seed": 0,
+ "status": "skipped",
+ "reason": "missing dep: backend 'limix' not installed in this env",
+ "wall_s": 0.02
+}

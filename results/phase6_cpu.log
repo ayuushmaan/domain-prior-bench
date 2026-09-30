@@ -1,0 +1,21 @@
+T1-breast step=1 loss=0.7162 auc=0.946 pstd=1.80e-02
+T1-breast step=100 loss=0.2702 auc=0.968 pstd=3.65e-01
+T1-breast step=200 loss=0.4999 auc=0.929 pstd=2.46e-01
+T1-breast step=300 loss=0.4980 auc=0.916 pstd=2.37e-01
+T1-breast DONE
+T2-clean8 step=1 loss=0.6646 auc=0.463 pstd=1.07e-03
+T2-clean8 step=100 loss=0.6410 auc=0.617 pstd=1.36e-06
+T2-clean8 step=200 loss=0.6410 auc=0.62 pstd=1.70e-06
+T2-clean8 step=300 loss=0.6410 auc=0.616 pstd=2.37e-06
+T2-clean8 DONE
+T3-qkx3 step=1 loss=0.6791 auc=0.458 pstd=1.77e-03
+T3-qkx3 step=100 loss=0.6410 auc=0.683 pstd=2.05e-05
+T3-qkx3 step=200 loss=0.6408 auc=0.715 pstd=2.94e-04
+T3-qkx3 step=300 loss=0.6408 auc=0.841 pstd=2.10e-04
+T3-qkx3 DONE
+T4-lr1e2 step=1 loss=0.6646 auc=0.54 pstd=1.55e-03
+T4-lr1e2 step=100 loss=0.6411 auc=0.558 pstd=3.67e-08
+T4-lr1e2 step=200 loss=0.6410 auc=0.689 pstd=3.32e-08
+T4-lr1e2 step=300 loss=0.6410 auc=0.327 pstd=3.15e-08
+T4-lr1e2 DONE
+PHASE6 DONE

@@ -1,0 +1,23 @@
+{
+ "job_id": "tabiclv2__credit_approval__n1000__r1_9085c44db5",
+ "model": "tabiclv2",
+ "dataset": "credit_approval",
+ "size": 1000,
+ "repeat": 1,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 1.85,
+ "metrics": {
+  "log_loss": 0.4820765386076968,
+  "roc_auc": 0.8655052264808363,
+  "pr_auc": 0.8787088740482754,
+  "brier": 0.1465229632297908,
+  "ece": 0.10945663972850048,
+  "ks": 0.6090592334494773,
+  "gini": 0.7310104529616726
+ },
+ "n_train": 257,
+ "n_test": 111,
+ "base_rate": 0.6306306306306306,
+ "wall_s": 1.87
+}

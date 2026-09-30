@@ -1,0 +1,23 @@
+{
+ "job_id": "tabiclv2__german_credit__n1000__r0_940b561565",
+ "model": "tabiclv2",
+ "dataset": "german_credit",
+ "size": 1000,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 3.32,
+ "metrics": {
+  "log_loss": 0.4549544039720907,
+  "roc_auc": 0.8308465608465608,
+  "pr_auc": 0.923104157249786,
+  "brier": 0.15053901390583405,
+  "ece": 0.05134202870229879,
+  "ks": 0.5063492063492063,
+  "gini": 0.6616931216931217
+ },
+ "n_train": 700,
+ "n_test": 300,
+ "base_rate": 0.7,
+ "wall_s": 3.36
+}

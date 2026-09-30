@@ -1,0 +1,11 @@
+{
+ "job_id": "autogluon__german_credit__n256__r1_c29ec87cce",
+ "model": "autogluon",
+ "dataset": "german_credit",
+ "size": 256,
+ "repeat": 1,
+ "seed": 0,
+ "status": "skipped",
+ "reason": "missing dep: backend 'autogluon' not installed in this env",
+ "wall_s": 0.01
+}

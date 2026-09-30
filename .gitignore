@@ -1,0 +1,14 @@
+# Binaries stay on disk, out of git (weights + dumps are GBs)
+*.pt
+*.h5
+*.hdf5
+*.pyc
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+# Local skill-runner scratch (recreated by scripts)
+C:/Users/ayush/AppData/Local/Temp/opencode/
+# Personal agent tooling (env-specific, not part of the project)
+.agents/
+.claude/
+agent/

@@ -1,0 +1,10 @@
+# Week-1 grid. Small on purpose for 6GB GPU: 2 sizes x 2 repeats smoke by default.
+# Full grid (plan): sizes [256,1000,4000,16000], repeats 10, all datasets.
+seed: 0
+n_repeats: 2
+sizes: [256, 1000]
+datasets: [australian_credit, credit_approval, german_credit]
+models: [woe_logreg, hgb, lightgbm, tabiclv2, tabpfn, limix, autogluon]
+outdir: results/raw
+n_cap: 6000
+subsample_test: 500

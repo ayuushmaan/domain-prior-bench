@@ -1,0 +1,11 @@
+{
+ "job_id": "limix__credit_approval__n1000__r0_a134e177a9",
+ "model": "limix",
+ "dataset": "credit_approval",
+ "size": 1000,
+ "repeat": 0,
+ "seed": 0,
+ "status": "skipped",
+ "reason": "missing dep: backend 'limix' not installed in this env",
+ "wall_s": 0.01
+}

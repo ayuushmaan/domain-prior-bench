@@ -1,0 +1,11 @@
+{
+ "job_id": "tabpfn__australian_credit__n256__r1_36702c1eee",
+ "model": "tabpfn",
+ "dataset": "australian_credit",
+ "size": 256,
+ "repeat": 1,
+ "seed": 0,
+ "status": "skipped",
+ "reason": "missing dep: backend 'tabpfn' not installed in this env",
+ "wall_s": 0.03
+}

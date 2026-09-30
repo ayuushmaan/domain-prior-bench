@@ -1,0 +1,9 @@
+step=1 loss=0.6355 auc=0.455 pstd=0.0004
+step=50 loss=0.5269 auc=0.47 pstd=0.0000
+step=100 loss=0.5269 auc=0.497 pstd=0.0000
+step=150 loss=0.5269 auc=0.583 pstd=0.0000
+step=200 loss=0.5269 auc=0.614 pstd=0.0000
+step=250 loss=0.5269 auc=0.622 pstd=0.0000
+step=300 loss=0.5269 auc=0.624 pstd=0.0000
+enc_rowstd=7.28e-01
+PHASE5 DONE

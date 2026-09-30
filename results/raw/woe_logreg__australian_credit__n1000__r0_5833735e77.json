@@ -1,0 +1,23 @@
+{
+ "job_id": "woe_logreg__australian_credit__n1000__r0_5833735e77",
+ "model": "woe_logreg",
+ "dataset": "australian_credit",
+ "size": 1000,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.03,
+ "metrics": {
+  "log_loss": 0.11323361043479814,
+  "roc_auc": 0.9908780218123335,
+  "pr_auc": 0.9887372315033753,
+  "brier": 0.02940839578787812,
+  "ece": 0.027417954553384343,
+  "ks": 0.9416159890100685,
+  "gini": 0.9817560436246671
+ },
+ "n_train": 1000,
+ "n_test": 500,
+ "base_rate": 0.394,
+ "wall_s": 0.07
+}

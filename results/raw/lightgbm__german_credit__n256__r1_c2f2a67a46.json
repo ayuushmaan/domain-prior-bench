@@ -1,0 +1,23 @@
+{
+ "job_id": "lightgbm__german_credit__n256__r1_c2f2a67a46",
+ "model": "lightgbm",
+ "dataset": "german_credit",
+ "size": 256,
+ "repeat": 1,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.65,
+ "metrics": {
+  "log_loss": 0.7385097080167256,
+  "roc_auc": 0.7647619047619048,
+  "pr_auc": 0.878345364695049,
+  "brier": 0.18892020625963965,
+  "ece": 0.14882793302056407,
+  "ks": 0.4396825396825397,
+  "gini": 0.5295238095238095
+ },
+ "n_train": 256,
+ "n_test": 300,
+ "base_rate": 0.7,
+ "wall_s": 0.67
+}

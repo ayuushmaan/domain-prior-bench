@@ -1,0 +1,11 @@
+{
+ "job_id": "tabpfn__credit_approval__n1000__r0_0335e96673",
+ "model": "tabpfn",
+ "dataset": "credit_approval",
+ "size": 1000,
+ "repeat": 0,
+ "seed": 0,
+ "status": "skipped",
+ "reason": "missing dep: backend 'tabpfn' not installed in this env",
+ "wall_s": 0.01
+}

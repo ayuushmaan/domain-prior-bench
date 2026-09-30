@@ -1,0 +1,23 @@
+{
+ "job_id": "lightgbm__australian_credit__n256__r0_25da5f4b0b",
+ "model": "lightgbm",
+ "dataset": "australian_credit",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.65,
+ "metrics": {
+  "log_loss": 0.21890424424903696,
+  "roc_auc": 0.9845454088556063,
+  "pr_auc": 0.9804108759018876,
+  "brier": 0.051380402807454394,
+  "ece": 0.054068932636957695,
+  "ks": 0.9200381967130723,
+  "gini": 0.9690908177112125
+ },
+ "n_train": 256,
+ "n_test": 500,
+ "base_rate": 0.394,
+ "wall_s": 0.68
+}

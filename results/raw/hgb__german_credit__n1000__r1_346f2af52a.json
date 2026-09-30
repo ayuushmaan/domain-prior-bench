@@ -1,0 +1,23 @@
+{
+ "job_id": "hgb__german_credit__n1000__r1_346f2af52a",
+ "model": "hgb",
+ "dataset": "german_credit",
+ "size": 1000,
+ "repeat": 1,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.41,
+ "metrics": {
+  "log_loss": 0.4937733566597002,
+  "roc_auc": 0.787830687830688,
+  "pr_auc": 0.8967402736065077,
+  "brier": 0.1640273597354204,
+  "ece": 0.06227626922965428,
+  "ks": 0.42857142857142855,
+  "gini": 0.575661375661376
+ },
+ "n_train": 700,
+ "n_test": 300,
+ "base_rate": 0.7,
+ "wall_s": 0.43
+}

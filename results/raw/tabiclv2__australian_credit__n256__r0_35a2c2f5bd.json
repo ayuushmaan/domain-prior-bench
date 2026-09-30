@@ -1,0 +1,23 @@
+{
+ "job_id": "tabiclv2__australian_credit__n256__r0_35a2c2f5bd",
+ "model": "tabiclv2",
+ "dataset": "australian_credit",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 23.54,
+ "metrics": {
+  "log_loss": 0.1798499360710563,
+  "roc_auc": 0.9810607964349736,
+  "pr_auc": 0.9765700874670307,
+  "brier": 0.0463856916468291,
+  "ece": 0.049266656968742606,
+  "ks": 0.8771506592283593,
+  "gini": 0.9621215928699471
+ },
+ "n_train": 256,
+ "n_test": 500,
+ "base_rate": 0.394,
+ "wall_s": 23.57
+}

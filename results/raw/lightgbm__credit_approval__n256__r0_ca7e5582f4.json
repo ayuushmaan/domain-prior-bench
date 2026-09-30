@@ -1,0 +1,23 @@
+{
+ "job_id": "lightgbm__credit_approval__n256__r0_ca7e5582f4",
+ "model": "lightgbm",
+ "dataset": "credit_approval",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.67,
+ "metrics": {
+  "log_loss": 0.8611052416109469,
+  "roc_auc": 0.8602787456445994,
+  "pr_auc": 0.8802228411200302,
+  "brier": 0.1569790574973671,
+  "ece": 0.17740060890581782,
+  "ks": 0.6637630662020906,
+  "gini": 0.7205574912891988
+ },
+ "n_train": 256,
+ "n_test": 111,
+ "base_rate": 0.6306306306306306,
+ "wall_s": 0.69
+}

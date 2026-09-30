@@ -1,0 +1,23 @@
+{
+ "job_id": "hgb__australian_credit__n256__r0_60ca5d8440",
+ "model": "hgb",
+ "dataset": "australian_credit",
+ "size": 256,
+ "repeat": 0,
+ "seed": 0,
+ "status": "ok",
+ "fit_predict_s": 0.43,
+ "metrics": {
+  "log_loss": 0.17930016036593793,
+  "roc_auc": 0.9775510545978456,
+  "pr_auc": 0.9742680587493783,
+  "brier": 0.04497700477041619,
+  "ece": 0.06990801827979944,
+  "ks": 0.9233385267460756,
+  "gini": 0.9551021091956913
+ },
+ "n_train": 256,
+ "n_test": 500,
+ "base_rate": 0.394,
+ "wall_s": 0.45
+}

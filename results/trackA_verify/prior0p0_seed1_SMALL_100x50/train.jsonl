@@ -1,0 +1,10 @@
+{"event": "start", "params": 2580802, "device": "cuda", "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790188795.9045746}
+{"step": 1, "loss": 0.6695, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790188902.8229692}
+{"step": 2, "loss": 0.7677, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790189056.8563566}
+{"step": 3, "loss": 0.5944, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790189067.3773806}
+{"step": 4, "loss": 2.4918, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790189136.6506267}
+{"step": 5, "loss": 2.4595, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790189146.7551441}
+{"step": 6, "loss": 0.6339, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790189241.5032332}
+{"step": 7, "loss": 0.8841, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790189395.3965147}
+{"step": 8, "loss": 0.8057, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790189421.366095}
+{"step": 9, "loss": 0.5858, "steps_s": 0.01, "run": "prior0p0_seed1_SMALL_100x50", "alpha": 0.0, "seed": 1, "size": "SMALL", "t": 1790189436.4399917}

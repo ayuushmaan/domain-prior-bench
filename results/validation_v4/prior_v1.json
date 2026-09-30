@@ -1,0 +1,103 @@
+{
+ "n_synth": 300,
+ "seed": 0,
+ "c2st_domain": {
+  "c2st_auc": 0.993,
+  "n_synth": 300,
+  "n_real": 75,
+  "verdict": "gap"
+ },
+ "c2st_generic": {
+  "c2st_auc": 1.0,
+  "n_synth": 300,
+  "n_real": 75,
+  "verdict": "gap"
+ },
+ "ppc": {
+  "synth_auc_mean": 0.678,
+  "synth_n_valid": 60,
+  "synth_n_degenerate": 0,
+  "real_auc_mean": 0.939,
+  "gap_synth_minus_real": -0.261,
+  "real_per_ds": {
+   "australian_credit": [
+    0.937,
+    0.905,
+    0.919
+   ],
+   "credit_approval": [
+    0.928,
+    0.935,
+    0.96
+   ],
+   "polish_bankruptcy": [
+    0.975,
+    0.948,
+    0.944
+   ]
+  }
+ },
+ "dev_stats": {
+  "australian_credit": {
+   "n": 690,
+   "d": 34,
+   "base_rate": 0.4449,
+   "missing": 0.0
+  },
+  "credit_approval": {
+   "n": 690,
+   "d": 38,
+   "base_rate": 0.5551,
+   "missing": 0.001
+  },
+  "polish_bankruptcy": {
+   "n": 7027,
+   "d": 64,
+   "base_rate": 0.0386,
+   "missing": 0.013
+  }
+ },
+ "coverage": {
+  "pca_var": [
+   0.297,
+   0.217
+  ],
+  "points": [
+   {
+    "dataset": "australian_credit",
+    "pc1": -1.067,
+    "pc2": -0.91,
+    "dist_pct": 0.513,
+    "inside_box": true
+   },
+   {
+    "dataset": "credit_approval",
+    "pc1": -0.511,
+    "pc2": -0.677,
+    "dist_pct": 0.207,
+    "inside_box": true
+   },
+   {
+    "dataset": "polish_bankruptcy",
+    "pc1": 19.972,
+    "pc2": 12.207,
+    "dist_pct": 1.0,
+    "inside_box": false
+   }
+  ],
+  "n_inside": 2
+ },
+ "cohens_d_domain_vs_real": {
+  "n_rows": 0.64,
+  "n_feat": 0.88,
+  "pos_rate": -0.66,
+  "missing_rate": 0.35,
+  "cat_share": 0.0,
+  "int_share": 0.53,
+  "skew_med": -0.55,
+  "kurt_med": -0.7,
+  "heavy_tail_share": -0.24,
+  "mean_abs_corr": -1.27,
+  "top_eig_ratio": -0.58
+ }
+}

@@ -1,0 +1,16 @@
+{"event": "start", "params": 2580802, "device": "cuda", "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178582.2771957}
+{"step": 1, "loss": 0.6545, "steps_s": 0.26, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178590.1018984}
+{"step": 2, "loss": 0.6348, "steps_s": 0.45, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178590.623316}
+{"step": 3, "loss": 1.2093, "steps_s": 0.6, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178591.2151327}
+{"step": 4, "loss": 0.7462, "steps_s": 0.72, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178591.7491167}
+{"step": 5, "loss": 1.5912, "steps_s": 0.82, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178592.340452}
+{"step": 6, "loss": 0.974, "steps_s": 0.9, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178592.9090927}
+{"step": 6, "dev": {"australian_credit": {"log_loss": 0.7173, "roc_auc": 0.2587}, "credit_approval": {"log_loss": 0.6874, "roc_auc": 0.653}, "polish_bankruptcy": {"log_loss": 0.8273, "roc_auc": 0.4567}}, "ckpt": "6", "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178602.292475}
+{"step": 7, "loss": 1.4753, "steps_s": 0.42, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178602.7730174}
+{"step": 8, "loss": 0.8583, "steps_s": 0.47, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178603.3751915}
+{"step": 9, "loss": 0.3123, "steps_s": 0.51, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178603.9460065}
+{"step": 10, "loss": 0.9669, "steps_s": 0.55, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178604.534432}
+{"step": 11, "loss": 0.5896, "steps_s": 0.58, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178605.1127977}
+{"step": 12, "loss": 0.6929, "steps_s": 0.62, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178605.6786942}
+{"step": 12, "dev": {"australian_credit": {"log_loss": 0.8684, "roc_auc": 0.6153}, "credit_approval": {"log_loss": 1.0331, "roc_auc": 0.4519}, "polish_bankruptcy": {"log_loss": 0.2617, "roc_auc": 0.6367}}, "ckpt": "12", "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178606.7830505}
+{"event": "done", "wall_h": 0.01, "run": "prior1p0_seed0_SMALL", "alpha": 1.0, "seed": 0, "size": "SMALL", "t": 1790178607.5245945}

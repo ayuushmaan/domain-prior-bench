@@ -1,0 +1,11 @@
+{
+ "job_id": "tabpfn__german_credit__n1000__r1_1734ed4695",
+ "model": "tabpfn",
+ "dataset": "german_credit",
+ "size": 1000,
+ "repeat": 1,
+ "seed": 0,
+ "status": "skipped",
+ "reason": "missing dep: backend 'tabpfn' not installed in this env",
+ "wall_s": 0.01
+}
