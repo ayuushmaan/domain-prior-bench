@@ -82,3 +82,17 @@ ulb_fraud, ieee_fraud. Large sets are subsampled; see `datasets.py` licences.
 - 11 tests pass (`tests/test_prior.py` + `tests/test_harness.py`)
 - Production dump DONE: `dumps/a0.5_seed0_3f1c3aba8d15/` — 20,000 tasks,
   10 shards, manifest-verified (disk was freed via pip-cache purge, 0.03→14.6GB).
+
+## Close-out status (2026-09-29) + future work
+
+Done and committed: Week-1 harness, validated prior (v4), dump, full Q1
+sweep 15/15 (`results/trackA_summary_final.csv`: 6 local + 9 molab),
+text-table probe + ablations (`scripts/text_table.py`), reader-collapse
+diagnosis (`configs/collapse_findings.md`: uniform attention ->
+constant readout -> dead grads; QK scaling delays but does not cure).
+
+Parked for later (needs pretrained backbone, not the from-scratch fork):
+Q3 (domain-synthetic CPT of TabICLv2 vs TabPFN-3.5/LimiX-2, TabArena guard),
+Q4 (synthetic vs real in-domain CPT), locked 8-test-set final eval (dev-only
+until then — test sets untouched). First step when resumed: fix or replace
+the reader (in-prior AUC gate >0.7), then re-run Q1.
