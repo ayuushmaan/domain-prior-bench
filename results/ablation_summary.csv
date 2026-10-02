@@ -1,0 +1,6 @@
+config,n_tasks,hgb_auc,tfm_auc,gap_mean,gap_sd,frac_gap_gt_0.2,source
+base,95,0.637,0.515,0.122,0.229,0.35,"molab-RTX-PRO-6000, transcribed from live session table 2026-09-29"
+nomnar,91,0.630,0.484,0.146,0.187,0.41,"molab-RTX-PRO-6000, transcribed from live session table 2026-09-29"
+norules,93,0.664,0.509,0.155,0.233,0.42,"molab-RTX-PRO-6000, transcribed from live session table 2026-09-29"
+noblocks,93,0.649,0.505,0.144,0.176,0.38,"molab-RTX-PRO-6000, transcribed from live session table 2026-09-29"
+noout,97,0.664,0.490,0.174,0.209,0.42,"molab-RTX-PRO-6000, transcribed from live session table 2026-09-29"
